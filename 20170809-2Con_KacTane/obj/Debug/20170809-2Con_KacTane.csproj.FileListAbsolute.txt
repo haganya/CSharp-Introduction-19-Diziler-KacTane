@@ -1,0 +1,6 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-2Con_KacTane\20170809-2Con_KacTane\bin\Debug\20170809-2Con_KacTane.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-2Con_KacTane\20170809-2Con_KacTane\bin\Debug\20170809-2Con_KacTane.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-2Con_KacTane\20170809-2Con_KacTane\bin\Debug\20170809-2Con_KacTane.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-2Con_KacTane\20170809-2Con_KacTane\obj\Debug\20170809-2Con_KacTane.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-2Con_KacTane\20170809-2Con_KacTane\obj\Debug\20170809-2Con_KacTane.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170809-2Con_KacTane\20170809-2Con_KacTane\obj\Debug\20170809-2Con_KacTane.pdb
